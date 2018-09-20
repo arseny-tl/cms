@@ -10,7 +10,7 @@ public class News {
   String content;
   User author;
   Set<User> mandatoryReviewers;
-  Set<Review> reviewrs;
+  Set<Review> reviewers;
   Set<Category> categories;
   Set<Tag> tags;
 }
